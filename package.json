@@ -9,7 +9,9 @@
     "inquirer": "^7.1.0",
     "mysql": "^2.18.1"
   },
-  "devDependencies": {},
+  "devDependencies":{
+    "http-server"
+    },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
