@@ -5,13 +5,10 @@
   "main": "index.js",
   "dependencies": {
     "console.table": "^0.10.0",
-    "http-server": "^0.12.3",
     "inquirer": "^7.1.0",
     "mysql": "^2.18.1"
   },
-  "devDependencies":{
-    "http-server"
-    },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
